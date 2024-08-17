@@ -1,3 +1,4 @@
+// to check number is even or odd
 import java.util.Scanner;
     class ex{
       public static void main (String arg[]){
