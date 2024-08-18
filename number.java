@@ -1,4 +1,4 @@
-//GIven a stream of number,read a numbers till you read a -ve integer and print the sum of numbers you read so far.
+//Given a stream of number,read a numbers till you read a -ve integer and print the sum of numbers you read so far.
 import java.util.*;
 class number{
     public static void main(String[] args){
