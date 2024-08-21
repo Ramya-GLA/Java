@@ -1,3 +1,4 @@
+//Calculation of LCM
 import java.util.*;
 
 public class lcm {
