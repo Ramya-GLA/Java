@@ -1,3 +1,4 @@
+//Sum of all the odd numbers in the given range
 import java.util.*;
 public class oddsum {
    public static void main (String[] args){
