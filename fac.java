@@ -1,4 +1,5 @@
 import java.util.*;
+//Calculating Factorial of the number
 public class fac {
     public static void main (String[] arg){
         Scanner sc=new Scanner(System.in);
