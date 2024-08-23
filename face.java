@@ -1,7 +1,7 @@
 public class face {
         public static void main(String[] args)
         {
-            // Display a pattern to create an ASCII art representation of a simple face
+            // representation of a simple face using ASCII Characters
             System.out.println(" +\"\"\"\"\"+ ");
             System.out.println("[| o o |]");
             System.out.println(" |  ^  | ");
